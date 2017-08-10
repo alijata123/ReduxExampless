@@ -1,1 +1,1 @@
-Redux examples with React
+React-REDUX examples
